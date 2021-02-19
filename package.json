@@ -17,7 +17,7 @@
   "author": "Yassien",
   "license": "AGPL-3.0-only",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "big-integer": "^1.6.48",
     "binascii": "0.0.2",
     "blockhash": "^0.2.0",
