@@ -13,9 +13,9 @@ Join the group chat on kik #kiknodeapi
 
 ## Modifications
    * Updated packages
-   * Updated Requests
    * Fixed crashes
    * Added events
+   * Added Requests
    * Added error and k handling
    * Added Unhandled Data Handling
    * Added crash handling
@@ -33,7 +33,6 @@ npm i kik-node-api
 ## Thanks To
    * Yassien
    * Squid
-   * Vilppu
 
 ## License
 [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
