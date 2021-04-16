@@ -1,6 +1,6 @@
 # Kik Node API Unofficial
 
-## Beta 4.1 Private (Stable)
+## Beta 4.1 Private/Unreleased (Stable)
 
 A chatting API for kik built with Node.js, based on <https://github.com/tomer8007/kik-bot-api-unofficial>
 
@@ -13,6 +13,14 @@ Join the group chat on kik #kiknodeapi
 
 ## Modifications
    * Updated packages
+   * Updated Requests
+   * Fixed crashes
+   * Added events
+   * Added error and k handling
+   * Added Unhandled Data Handling
+   * Added crash handling
+   * Added exploit detection
+   * More
 
 ## Installation
 
