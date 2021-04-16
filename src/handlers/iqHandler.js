@@ -21,7 +21,7 @@ module.exports = (client, callbacks, id, data) => {
         data.findAll("item").forEach(friend => {
             friends.push({
                 jid: friend.attrs.jid,
-                username: friend.find("username").text,
+                username: friend.find("username").txt,
                 displayName: friend.find("display-name").text
             });
         });
