@@ -1,6 +1,6 @@
 # Kik Node API Unofficial
 
-## Beta 4.1 Private/Unreleased (Stable)
+## Beta 4.0.5 Private/Unreleased
 
 A chatting API for kik built with Node.js, based on <https://github.com/tomer8007/kik-bot-api-unofficial>
 
